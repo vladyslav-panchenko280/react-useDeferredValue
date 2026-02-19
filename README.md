@@ -1,6 +1,6 @@
 # Deferred Value Demo
 
-A React demo showcasing `useDeferredValue` for handling expensive renders without blocking the UI.
+A React 19 demo showing `useDeferredValue` for handling expensive renders without blocking the UI.
 
 ## Features
 
